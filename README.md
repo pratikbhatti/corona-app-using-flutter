@@ -1,16 +1,17 @@
-# demo38
+# Corona App (Using Flutter)
 
-A new Flutter project.
+This app is a corona app. This app is made in flutter technology. using getx state management. 
 
-## Getting Started
+# Interface Image
+<h3> Corona App Screen </h3>
+<img src="https://user-images.githubusercontent.com/125340601/220536487-8f6ec518-5032-4dd5-ab99-92cf902e0fa7.png" weight="700" height="800"/>
+# Interface Video
+<h3> Corona App Screen </h3>
+<img src="https://user-images.githubusercontent.com/125340601/220536649-3d402299-5b3c-410a-ad90-08d2a2d677e6.mp4" weight="700" height="800"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
